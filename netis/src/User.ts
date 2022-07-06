@@ -20,3 +20,4 @@ export class User implements Mappable {
     return `User Name: ${this.name}`;
   };
 };
+
