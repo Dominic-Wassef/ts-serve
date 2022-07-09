@@ -45,7 +45,7 @@ for (let i = 0; i < words.length; i++) {
   }
 }
 
-// 3) Variable whose type cannot be inferred correctly
+// 3.) Variable whose type cannot be inferred correctly
 let numbers = [-10, -1, 12];
 let numberAboveZero: boolean | number = false;
 
