@@ -9,6 +9,5 @@ const profile = {
     this.age = age;
   }
 }
-
 const { age }: { age: number } = profile;
 const { coords: { lat, lon } }: { coords: { lat: number; lon: number }} = profile;
