@@ -31,4 +31,3 @@ class Cars extends Vehicle {
 
 const cars2 = new Cars(4, 'red');
 cars2.startDriving();
-
